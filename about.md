@@ -12,7 +12,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/preetika-k/ChatGPT-Sorting-Strategies">ChatGPT Sorting Strategies</a></li> 
+	<li><a href="https://github.com/preetika-k/Fine-Tuning-prompts-for-Stable-Diffusion">Fine-Tuning Prompts for Stable Diffusion</a></li>
+	<li><a href="https://github.com/preetika-k/Reliability-in-AI-Apps">Reliability in AI Apps</a></li>
 </ul>
