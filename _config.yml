@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-linkedin: linkedin.com/in/preetika-kaur-169699260
-github: https://github.com/preetika-k
+linkedin: preetika-kaur-169699260/
+github: preetika-k
 email: preetika.kaur11@gmail.com
 
 authors:
